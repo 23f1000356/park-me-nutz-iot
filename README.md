@@ -5,7 +5,7 @@ A modern web-based dashboard for an Arduino Smart Parking System that monitors p
 ![Smart Parking System Web UI](image1.png)
 ![Smart Parking System](image2.jpg)
 
-## Features
+## Features 
 
 - Real-time monitoring of parking slot occupancy
 - Automatic entry and exit gate control
